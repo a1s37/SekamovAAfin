@@ -1,4 +1,4 @@
 a = int(input("Add a number"))
 b = int(input("Add another number"))
-c = a * b
+c = a / b
 print(c)
